@@ -28,6 +28,9 @@ RandImgGenerator.java
     <img src='img/bomb10_48_64.png' style='margin: 10px'>
     <img src='img/bomb14_60_500.png' style='margin: 10px'>
 </div>
+<img src='img/bomb2_10_[0.7, 0.5, 0.55, 0.6]_400.png' style='margin: 10px'>
+<img src='img/bomb3_10_[0.4, 0.1]_100.png' style='margin: 10px'>
+<img src='img/bomb4_10_[0.57, 0.64, 0.54, 0.48, 0.51, 0.6, 0.52, 0.56]_100.png' style='margin: 10px'>
 <div style='display: flex;'>
     <img src='img/finehorizontalstripe10.png' style='margin: 10px'>
     <img src='img/horizontalstripe10.png' style='margin: 10px'>
