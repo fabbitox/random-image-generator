@@ -14,7 +14,7 @@ RandImgGenerator.java
 - 이미지 크기 수정: field의 width, height
 ## Bomb 생성자
 - 최대 색 차이(int)
-- 확장 확률(double) 또는 double[]
+- 확장 확률(double 또는 double[])
 - 개수 설정할 때 나누는 수(int)
 ## Stripe, Fine Stripe 생성자
 최대 색 차이(int)
