@@ -36,5 +36,8 @@ public abstract class RandImgGenerator {
 		new DiagonalStripe(10).make();
 		new FineDiagonalStripe(10).make();
 		new Bomb(10, 0.6, 500).make();// probability of progress to adjacent pixel, bomb count: width * height / divide
+		new Bomb2(10, new double[] {0.7, 0.5, 0.55, 0.6}, 400).make();
+		new Bomb3(10, new double[] {0.4, 0.1}, 100).make();
+		new Bomb4(10, new double[] {0.57, 0.64, 0.54, 0.48, 0.51, 0.6, 0.52, 0.56}, 100).make();
 	}
 }
