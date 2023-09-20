@@ -23,23 +23,13 @@ RandImgGenerator.java
 - 가로(Horizontal)
 - 세로(Vertical)
 - 대각선(Diagonal)
-# 결과
-<div style='display: flex;'>
-    <img src='img/bomb10_48_64.png' style='margin: 10px'>
-    <img src='img/bomb14_60_500.png' style='margin: 10px'>
-</div>
-<img src='img/bomb2_10_[0.7, 0.5, 0.55, 0.6]_400.png' style='margin: 10px'>
-<img src='img/bomb3_10_[0.4, 0.1]_100.png' style='margin: 10px'>
-<img src='img/bomb4_10_[0.57, 0.64, 0.54, 0.48, 0.51, 0.6, 0.52, 0.56]_100.png' style='margin: 10px'>
-<div style='display: flex;'>
-    <img src='img/finehorizontalstripe10.png' style='margin: 10px'>
-    <img src='img/horizontalstripe10.png' style='margin: 10px'>
-</div>
-<div style='display: flex;'>
-    <img src='img/fineverticalstripe10.png' style='margin: 10px'>
-    <img src='img/verticalstripe10.png' style='margin: 10px'>
-</div>
-<div style='display: flex;'>
-    <img src='img/finediagonalstripe10.png' style='margin: 10px'>
-    <img src='img/diagonalstripe20.png' style='margin: 10px'>
-</div>
+# 결과 예시
+|Bomb1|     |Bomb2|Bomb3|Bomb4|
+|-----|-----|-----|-----|-----|
+|<img src='img/bomb10_48_64.png'>|<img src='img/bomb14_60_500.png'>|<img src='img/bomb2_10_[0.7, 0.5, 0.55, 0.6]_400.png'>|<img src='img/bomb3_10_[0.4, 0.1]_100.png'>|<img src='img/bomb4_10_[0.57, 0.64, 0.54, 0.48, 0.51, 0.6, 0.52, 0.56]_100.png'>|
+
+|      |Stripe|      |
+|------|------|------|
+|<img src='img/horizontalstripe10.png'>|<img src='img/verticalstripe10.png'>|<img src='img/diagonalstripe20.png'>|
+|<img src='img/finehorizontalstripe10.png'>|<img src='img/fineverticalstripe10.png'>|<img src='img/finediagonalstripe10.png'>|
+
