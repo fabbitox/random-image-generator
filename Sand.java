@@ -46,7 +46,7 @@ public class Sand {
 					while (hs[k2] == height && ac > 0) {
 						k2 = avails[k] = avails[--ac];
 					}
-					if (ac > 0) {
+					if (hs[k2] < height) {
 						state[k2][hs[k2]++] = ci;
 					}
 				}
