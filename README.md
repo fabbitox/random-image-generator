@@ -1,8 +1,11 @@
 # 랜덤 이미지 생성
+## 2025년 5월 22일 C# 코드 추가
+자바 코드에서 변형  
+<img src='img/output.png' width='50%'>
 ## 2025년 1월 12일 Sand.java 추가
 RandomImgGenerator 상속받지 않은 별도 클래스  
 width, height, colors, 마지막 파일 생성 부분 필요에 따라 수정해서 사용  
-<img src='img/sand.png'>
+<img src='img/sand.png' width='60%'>
 ## RandomImgGenerator.java
 원하는 패턴의 클래스 생성한 후 make()
 ### 클래스 목록
